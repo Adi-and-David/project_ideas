@@ -1,5 +1,4 @@
 #PROJECT IDEAS
-_____________________________________________________
 
 - [ ] C# .NET framework (contribution for ThreeJS)
   - [ ] C# is not so good on mac
@@ -22,7 +21,6 @@ _____________________________________________________
   - [ ] Will take very long
 
 #RESOURCES
-_____________________________________________________
 
 - [ ] Screenhero (free now)
 
