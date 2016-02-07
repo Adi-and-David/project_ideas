@@ -20,6 +20,11 @@
   - [ ] Huge learning curve
   - [ ] Will take very long
 
+- [ ] Contribute to github Scientist/scientiest.net
+  - [ ] Will require research to learn how it works.
+  - [ ] https://github.com/github/scientist
+  - [ ] https://github.com/haacked/scientist.net
+  
 #RESOURCES
 
 - [ ] Screenhero (free now)
