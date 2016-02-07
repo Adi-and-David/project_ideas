@@ -29,7 +29,7 @@
   - [ ] A maze game
   - [ ] An Astroid like game
   - [ ] Threejs "Minecraft" incorporate prebuilt logic gates(AND, OR , NOT)
-   -[ ] Able to add muiltiple people in the logicWorld
+  -   [ ] Able to add muiltiple people in the logicWorld
 
 
 - [ ] Dreaming big
