@@ -25,6 +25,18 @@
   - [ ] https://github.com/github/scientist
   - [ ] https://github.com/haacked/scientist.net
   
+- [ ] Simple ThreeJS game
+  - [ ] A maze game
+  - [ ] An Astroid like game
+  - [ ] Threejs "Minecraft" incorporate prebuilt logic gates(AND, OR , NOT)
+   -[ ] Able to add muiltiple people in the logicWorld
+
+
+- [ ] Dreaming big
+  - [ ] threeJS and virtual reality headset
+  - [ ] Don't have a VR headset
+  - [ ] Could be a big project or a small project
+  
 #RESOURCES
 
 - [ ] Screenhero (free now)
